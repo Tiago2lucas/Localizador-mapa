@@ -14,9 +14,6 @@
 * HTML5
 * CSS3
 * JAVASCRIPT
-## Video inspirado
-* https://www.youtube.com/watch?v=ZFge8WrnWHo&t=5s
-* https://www.youtube.com/watch?v=cBQcMLzq5gU
 
 ## Como funcionar
 
